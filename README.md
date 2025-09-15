@@ -18,13 +18,6 @@ I’m passionate about technology and always eager to learn, explore, and develo
 />
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
-    height="45px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     height="40px"
@@ -52,13 +45,19 @@ I’m passionate about technology and always eager to learn, explore, and develo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
     height="40px"
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img  
+    alt="Java"
+    title="Java" 
+    height="40px"
+    style="padding-left: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <br clear="left"/><br/>
 
 ### 🌗 _Moonlight Metrics_
