@@ -4,7 +4,7 @@
 
 I’m passionate about technology and always eager to learn, explore, and develop new skills. My goal is to keep growing as a developer, contributing to meaningful projects, and sharing knowledge along the way.
 
-> ⭒₊ ⊹🌕₊ ⊹⭑ *E nem entendo aquilo que entendo: pois estou infinitamente maior do que eu mesma, e não me alcanço.*
+> ⭒₊ ⊹🌕₊ ⊹⭑ *E nem entendo aquilo que entendo: pois estou infinitamente maior do que eu mesma, e não me alcanço. - Clarice Lispector.*
 
 ---
 
