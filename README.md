@@ -68,13 +68,13 @@ I’m passionate about technology and always eager to learn, explore, and develo
         alt="GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=luanasakai&show_icons=true&theme=catppuccin_mocha&include_all_commits=true" 
+        src="https://github-readme-stats-lemon-mu-73.vercel.app/api?username=luanasakai&show_icons=true&theme=catppuccin_mocha&include_all_commits=true" 
     />
     <img 
       align="left" 
       alt="GitHub Stats" 
       height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanasakai&theme=catppuccin_mocha&layout=compact&langs_count=9" 
+      src="https://github-readme-stats-lemon-mu-73.vercel.app/api/top-langs/?username=luanasakai&theme=catppuccin_mocha&layout=compact&langs_count=9" 
   />
 </p>
 
