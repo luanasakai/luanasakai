@@ -13,7 +13,7 @@ I’m passionate about technology and always eager to learn, explore, and develo
     align="left" 
     alt="C"
     title="C" 
-    height="50px"
+    height="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
@@ -66,7 +66,7 @@ I’m passionate about technology and always eager to learn, explore, and develo
     <img 
         align="left" 
         alt="GitHub Stats" 
-        height="200" 
+        height="100" 
         style="padding-right: 20px;" 
         src="https://github-readme-stats-lemon-mu-73.vercel.app/api?username=luanasakai&show_icons=true&theme=catppuccin_mocha&include_all_commits=true" 
     />
