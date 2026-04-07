@@ -67,7 +67,7 @@ I’m passionate about technology and always eager to learn, explore, and develo
         align="left" 
         alt="GitHub Stats" 
         height="200" 
-        style="padding-right: 10px;" 
+        style="padding-right: 100px;" 
         src="https://github-readme-stats-lemon-mu-73.vercel.app/api?username=luanasakai&show_icons=true&theme=catppuccin_mocha&include_all_commits=true" 
     />
     <img 
