@@ -13,7 +13,7 @@ I’m passionate about technology and always eager to learn, explore, and develo
     align="left" 
     alt="C"
     title="C" 
-    height="100px"
+    height="50px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
